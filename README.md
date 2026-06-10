@@ -58,7 +58,9 @@ npm install --legacy-peer-deps
 npm run dev
 ```
 
-2. Open browser at `http://localhost:3000`
+2. Open browser at `http://localhost:3000`.
+
+If port `3000` is already in use, Vite may choose another available port such as `3001`.
 
 ## API Endpoints
 
